@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "productid": "asdas4s",
+      "name": "MSI Laptop",
+      "category": "Phone",
+      "price": "70000",
+      "serialnumber": "ssdd56rr",
+      "releasedate": "2022-03-08",
+      "stockunit": "6",
+      "description": "yyy",
+      "id": 12
+    },
+    {
+      "productid": "AZZS3",
+      "name": "DELL ASPIRON",
+      "category": "Laptop",
+      "price": "50000",
+      "serialnumber": "ASSD456",
+      "releasedate": "2022-04-07",
+      "stockunit": "8",
+      "description": "DELL ASPIRON",
+      "id": 13
+    },
+    {
+      "productid": "eeerr5",
+      "name": "Samsung Galaxy z",
+      "category": "Phone",
+      "price": "60000",
+      "serialnumber": "zz4r5",
+      "releasedate": "2022-02-14",
+      "stockunit": "7",
+      "description": "Samsung Galaxy z",
+      "id": 14
+    },
+    {
+      "productid": "asdas",
+      "name": "iphone 13",
+      "category": "Phone",
+      "price": "70000",
+      "serialnumber": "asdf456",
+      "releasedate": "2022-04-21",
+      "stockunit": "7",
+      "description": "yyy",
+      "id": 15
+    }
+  ]
+}
